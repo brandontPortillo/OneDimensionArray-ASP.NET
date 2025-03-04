@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CategoryCreateArraySessionVariables.aspx" />
+    <Content Include="CategoryUseArraySessionVariables.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,6 +78,13 @@
     </Compile>
     <Compile Include="CategoryCreateArraySessionVariables.aspx.designer.cs">
       <DependentUpon>CategoryCreateArraySessionVariables.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryUseArraySessionVariables.aspx.cs">
+      <DependentUpon>CategoryUseArraySessionVariables.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CategoryUseArraySessionVariables.aspx.designer.cs">
+      <DependentUpon>CategoryUseArraySessionVariables.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

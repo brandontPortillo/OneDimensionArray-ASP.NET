@@ -10,8 +10,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>Create Category Array</h1><br /><br />
-            <asp:Button runat="server" ID="btnCreateArray" OnClick="btnCreateArray_Click" />
+            <h2>Create Category Array</h2>
+            <asp:Button runat="server" ID="btnCreateArray" OnClick="btnCreateArray_Click" Text="Create Array" />
         </div>
     </form>
 </body>

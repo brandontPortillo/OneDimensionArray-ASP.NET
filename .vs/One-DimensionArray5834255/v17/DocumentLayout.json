@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\One-DimensionArray5834255\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|c:\\users\\danie\\source\\repos\\one-dimensionarray5834255\\categorycreatearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|solutionrelative:categorycreatearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|C:\\Users\\danie\\source\\repos\\One-DimensionArray5834255\\categorycreatearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|solutionrelative:categorycreatearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|c:\\users\\danie\\source\\repos\\one-dimensionarray5834255\\categorycreatearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|solutionrelative:categorycreatearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|c:\\users\\danie\\source\\repos\\one-dimensionarray5834255\\categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|solutionrelative:categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|c:\\users\\danie\\source\\repos\\one-dimensionarray5834255\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|solutionrelative:categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|c:\\users\\danie\\source\\repos\\one-dimensionarray5834255\\categorycreatearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C9172D-94F9-4745-A1B7-BBCDDFE41B7B}|One-DimensionArray5834255.csproj|solutionrelative:categorycreatearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CategoryUseArraySessionVariables.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\One-DimensionArray5834255\\CategoryUseArraySessionVariables.aspx.cs",
+              "RelativeDocumentMoniker": "CategoryUseArraySessionVariables.aspx.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\One-DimensionArray5834255\\CategoryUseArraySessionVariables.aspx.cs",
+              "RelativeToolTip": "CategoryUseArraySessionVariables.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:23:01.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryUseArraySessionVariables.aspx",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\One-DimensionArray5834255\\CategoryUseArraySessionVariables.aspx",
+              "RelativeDocumentMoniker": "CategoryUseArraySessionVariables.aspx",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\One-DimensionArray5834255\\CategoryUseArraySessionVariables.aspx",
+              "RelativeToolTip": "CategoryUseArraySessionVariables.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T02:20:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CategoryCreateArraySessionVariables.aspx.cs",
               "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\One-DimensionArray5834255\\CategoryCreateArraySessionVariables.aspx.cs",
               "RelativeDocumentMoniker": "CategoryCreateArraySessionVariables.aspx.cs",
               "ToolTip": "C:\\Users\\danie\\source\\repos\\One-DimensionArray5834255\\CategoryCreateArraySessionVariables.aspx.cs",
               "RelativeToolTip": "CategoryCreateArraySessionVariables.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAArwBAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwBwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T02:07:39.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CategoryCreateArraySessionVariables.aspx",
               "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\One-DimensionArray5834255\\CategoryCreateArraySessionVariables.aspx",
               "RelativeDocumentMoniker": "CategoryCreateArraySessionVariables.aspx",
